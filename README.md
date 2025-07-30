@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bendenizderya
+- 👋 Hi, I’m @deryagokceli
 
 - 🌱 I’m currently learning C Programming ...
 
